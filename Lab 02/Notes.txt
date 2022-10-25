@@ -1,0 +1,6 @@
+P@ssw0rd
+
+Terminal:
+
+$ nano
+	similar to Notepad
